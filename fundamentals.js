@@ -36,4 +36,6 @@ for (let i = 0 ; i < aCar.previous_owners.length ; i ++) {
     for(key in currentUser){ 
         console.log(key + ' is' + currentUser[key])
     }
-} 
+}
+
+console.log(aCar)
